@@ -116,6 +116,7 @@ a:hover{
     font-style: italic;}
 .intro{
     text-indent: .2em; }
+
 .footer {
         position:relative;
         bottom:0;
@@ -132,3 +133,7 @@ a:hover{
 -webkit-box-shadow: 0 0 10px #777777;
 box-shadow: 0 0 10px #777777;
     margin-top: 0px;}
+    p.website {
+        color:#E7F2DE;
+        font-family: Aboreto, sans-serif;
+    }
