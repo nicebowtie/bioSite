@@ -1,4 +1,5 @@
 html {font-size: 16px ;}
+
 body {
     background-color: #E7F2DE;
     border: 5px solid #137585;
@@ -13,6 +14,10 @@ body {
 -webkit-box-shadow: 0 0 10px #777777;
 box-shadow: 0 0 10px #777777;
 }
+
+
+
+
 p {
     font-family: "Roboto Slab", serif;
     font-weight: 200;
@@ -25,7 +30,6 @@ width: 330px;
 text-align: justify;
 margin-left: 40px;
 text-indent: 30px;
-
 -moz-border-radius: 10px;
 -webkit-border-radius: 10px;
 -moz-box-shadow: 0 0 10px #777777;
