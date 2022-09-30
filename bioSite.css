@@ -109,9 +109,26 @@ text-decoration: none;
 }
 
 
-
+a:link {
+    color: #e7f2de;
+    font-size: 1.5em;
+    border: 5px solid #e7f2de;
+        padding: 10px;
+    text-decoration: none;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-box-shadow: 0 0 10px #777777;
+-webkit-box-shadow: 0 0 10px #777777;
+box-shadow: 0 0 10px #777777;
+    margin:auto;
+    float:unset;
+    display:grid;
+    text-align:center;
+   
+}
 a:visited{ 
-    color: rgb(4, 62, 70);}
+    color: #e7f2de;}
+
 a:hover{
     text-decoration: none;
     background-color: #51e2b4;}
@@ -126,7 +143,7 @@ a:hover{
         bottom:0;
         left:0;
         width:99%;
-        height: 200px;
+        height: 175px;
         background-color: #137585;
         border: 5px solid #137585;
         padding: 0px;
@@ -141,3 +158,8 @@ box-shadow: 0 0 10px #777777;
         color:#E7F2DE;
         font-family: Aboreto, sans-serif;
     }
+    .ul {
+        display:block;
+    }
+    
+    
